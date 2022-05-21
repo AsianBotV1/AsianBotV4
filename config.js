@@ -1,12 +1,12 @@
 global.DeveloperMode = 'false' //true Or false
-//global.linkGC = ['https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ' , 'https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs' , 'https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F' , 'https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC' , 'https://chat.whatsapp.com/H7NUXdrGlFg20ae3bqgwlb'] // No tiene utilidad 
-//global.channelYT = ['https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'] // No tiene utilidad
-global.owner = ['50257681618'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
-global.mods = ['5219992095479' , '972557048356'] // No tiene utilidad
-global.prems = ['5219996125657' , '5219991402134'] // No tiene utilidad
+//global.linkGC = ['https://chat.whatsapp.com' , 'https://chat.whatsapp.com/' , 'https://chat.whatsapp.com' , 'https://chat.whatsapp.com' , 'https://chat.whatsapp.com'] // No tiene utilidad 
+//global.channelYT = ['https://www.youtube.com'] // No tiene utilidad
+global.owner = ['51965650863'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.mods = ['51965650863' , ''] // No tiene utilidad
+global.prems = ['51965650863' , ''] // No tiene utilidad
 
-// Nota: Puedes contactarme si necesitas ayuda con algo al +994407312387 (Solo temas de la instalación)
-// => Solo dudas sobre la instalación, temas generales contactarme al +593968585383 (Temas serios, si vas a intervenir al chat para molesrtar seras bloqueado/a) 
+// Nota: Puedes contactarme si necesitas ayuda con algo al +51965650863 (Solo temas de la instalación)
+// => Solo dudas sobre la instalación, temas generales contactarme al +51965650863 (Temas serios, si vas a intervenir al chat para molestar seras bloqueado/a) 
 // => NO ayudo a hacer Bots, ni crearlos, ni editarlos 
 // - Este es el Canal de The Shadow Brokers por si te interesa su canal de YouTube en https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA
 
@@ -49,11 +49,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝙉𝙤𝙩𝙅𝙝𝙪𝙯ᙆ  ᷦ×͜×'
-global.author = '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×'
+global.packname = 'AsianBot 𖠌'
+global.author = 'Asian BotBY𖠌'
 
 
-//global.wait = '*Esperé un momento..*'
+//global.wait = '*Esperé Unos Minutos𖠌...*'
 
 
 global.multiplier = 69 // The higher, The harder levelup
