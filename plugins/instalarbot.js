@@ -1,5 +1,5 @@
 let handler = async m => m.reply(`
-JhuszBot INSTALACION TERMUX OPCION 1 (GitHub)
+ASIANBot INSTALACION TERMUX OPCION 1 (GitHub)
 
 termux-setup-storage
 
@@ -13,9 +13,9 @@ apt install ffmpeg -y
 
 apt install imagemagick -y
 
-git clone https://github.com/IdkJhus/JhuszBotV1
+git clone https://github.com
 
-cd JhuszBotV1
+cd 
 
 npm install
 
