@@ -66,7 +66,7 @@ _En donde podrás guardar mensajes/archivos multimedia. Para luego verlos con un
 ❖🗑 _${usedPrefix}eliminarimg *comando/palabra clave*_
 ❖🗑 _${usedPrefix}eliminarsticker *comando/palabra clave*_
 
-              *「 𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜× 」*`.trim()
+              *「 Billi  ᷦ×͜× 」*`.trim()
     let mentionedJid = [who]
     conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
   }
