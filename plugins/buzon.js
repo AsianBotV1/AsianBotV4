@@ -3,8 +3,8 @@ let info = `
 *Mayor Lista de Buzones*
 Actualizados
 ╔════⪼ཊ༼⚚༿𖤍༾⚚༽ཏ⪻════╗
-Lista by: ⍣𝑻𝒐𝒏𝒚𝒙 Vcf
-•Incluído By @𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×
+Lista by: ⍣Billi
+•Incluído By Billi
 ---------------------------
 
 
@@ -278,7 +278,7 @@ Prede: Últimos 4 dígitos#
 ╚════⪼ཊ༼⚚༿𖤍༾⚚༽ཏ⪻════╝
 `.trim() 
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 JHUSZ X-X*', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥*', 'status@broadcast')
 }
 handler.command = /^(buzon|buzoneo|buzones)$/i
 
